@@ -18,7 +18,6 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<br/>
 
 ###
 - 🔭 I’m learning to become a backend-developer 
