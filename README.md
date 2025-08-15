@@ -32,9 +32,10 @@
 <h3 align="left">🌐 Socials:</h3>
 
 <div align="">
-<a href="www.linkedin.com/in/samrawit-alemu-/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a href="https://www.linkedin.com/in/samrawit-alemu/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 <a href="https://t.me/Good_samarita_n" ><img src="https://img.shields.io/static/v1?message=TeleGram&logo=telegram&label=&color=33AAE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
 
+</div>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
